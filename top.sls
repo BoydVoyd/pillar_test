@@ -1,3 +1,3 @@
-base:
-  'salt-prod':
+dev:
+  'salt-dev':
     - add_file
